@@ -26,7 +26,11 @@
          </div>
      @endforeach --}}
 
-     <hr><hr><hr><hr><hr>
+     <hr>
+     <hr>
+     <hr>
+     <hr>
+     <hr>
 
 
      @foreach ($cities as $city)

@@ -22,3 +22,5 @@ if (flash_msg) {
         closeFlash()
     }, 2000)
 }
+
+
